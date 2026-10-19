@@ -137,7 +137,7 @@ The data did not need clean-up. Extra columns were added with Excel formulas:
 ```
 employee-dashboard-excel/
 ├── README.md
-├── Adebowale_Assignment_1.xlsx
+├── Adebowale_Assignment 1.xlsx
 └── images/
     └── employee_dashboard.png
 ```
@@ -147,7 +147,7 @@ employee-dashboard-excel/
 ## 9. How to Use
 
 1. Download or clone this repository.
-2. Open `Adebowale_Assignment_1.xlsx` in Excel (slicers need Excel 2013 or later).
+2. Open `Adebowale_Assignment 1.xlsx` in Excel (slicers need Excel 2013 or later).
 3. Go to the **Employee Dashboard** sheet and use the City and Gender slicers to filter the charts.
 4. See the **Pivot Table** sheet for the underlying pivots and **Assignment-Module 1** for the formulas.
 
